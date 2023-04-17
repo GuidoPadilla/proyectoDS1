@@ -1,1 +1,1 @@
-# Para hacer uso correcto del jupyter es necesario descargar dos datasets del siguiente link de kaggle https://www.kaggle.com/datasets/cicdataset/cicids2017, para ser especificos el archivo TUESDAY y WEDNESDAY, luego de descargarlos y extraerlos nombrarlos como ml2.csv y ml3.csv
+# Para hacer uso correcto del jupyter es necesario descargar dos datasets del siguiente link de kaggle https://www.kaggle.com/datasets/cicdataset/cicids2017, para ser especificos el archivo TUESDAY y WEDNESDAY, luego de descargarlos y extraerlos nombrarlos como ml1.csv y ml2.csv
